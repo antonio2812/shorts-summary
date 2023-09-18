@@ -66,6 +66,16 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
   $ yarn start
 ```
 
+```front-end
+  # rodar o projeto
+  $ npm run web
+```
+
+```back-end
+  # rodar o servidor
+  $ npm run server
+```
+
 ## 👤  Autor
 
 **Antonio  Carlos**
