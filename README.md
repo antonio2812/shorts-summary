@@ -54,6 +54,16 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
   $ npm start
 ```
 
+```bash
+  # rodar o projeto
+  $ npm run web
+```
+
+```bash
+  # rodar o servidor
+  $ npm run server
+```
+
 <p align="center">Ou</p>
 
 ```bash
@@ -64,16 +74,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ```bash
   # Executar
   $ yarn start
-```
-
-```front-end
-  # rodar o projeto
-  $ npm run web
-```
-
-```back-end
-  # rodar o servidor
-  $ npm run server
 ```
 
 ## 👤  Autor
